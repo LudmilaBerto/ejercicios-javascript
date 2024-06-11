@@ -96,5 +96,8 @@ if (temperaturaFahrenheit > 85) {
 11. **Ve a la pestaña "Consola"**: En las herramientas de desarrollo, ve a la pestaña "Consola". Aquí es donde verás la salida de tu script JavaScript.
 
 12. **Observa la salida**: Deberías ver la salida del script en la consola del navegador.
+    <img src="https://raw.githubusercontent.com/LudmilaBerto/ejercicios-javascript/main/Script%20ejecutado.png"/>
 
-Siguiendo estos pasos, podrás ejecutar tu script de JavaScript dentro de un archivo HTML en tu navegador y ver la salida en la consola.
+Siguiendo estos pasos, podrás ejecutar tus scripts de JavaScript dentro de un archivo HTML en tu navegador y ver la salida en la consola.
+
+
