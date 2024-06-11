@@ -1,15 +1,17 @@
 
-
+// Temperatura en grados Celsius
 let temperaturaCelsius=50
 
-let temperaturaFahrenheitt=0
+let temperaturaFahrenheit=0
 
-temperaturaFahrenheitt=(temperaturaCelsius*1.8)+32
+// Calcula la temperatura en grados Fahrenheit
+temperaturaFahrenheit=(temperaturaCelsius*1.8)+32
 
-if(temperaturaFahrenheitt>85){
+// Determina si la temperatura en Fahrenheit es alta,baja o moderada
+if(temperaturaFahrenheit>85){
     console.log('La temperatura Fahrenheit es alta')
 } else{
-    if(temperaturaFahrenheitt<32){
+    if(temperaturaFahrenheit<32){
         console.log('La temperatura Fahrenheit es baja')
     }
 }
