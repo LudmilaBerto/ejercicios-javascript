@@ -4,7 +4,8 @@ let numeroB=52
 let numeroC=87
 let resultadoSuma=0
 let resultadoResta=0
-let resultadoMultiplica=0
+let resultadoMultiplica=
+
 
 resultadoSuma=numeroA+numeroB+numeroC
 
